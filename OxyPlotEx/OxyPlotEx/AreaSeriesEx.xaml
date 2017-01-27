@@ -5,7 +5,7 @@
              x:Class="OxyPlotEx.AreaSeriesEx">
   <AbsoluteLayout>
     <oxy:PlotView Model="{Binding AreaModel}"
-                  AbsoluteLayout.LayoutBounds="20,0,.9,.9"
+                  AbsoluteLayout.LayoutBounds="10,30,.9,.9"
                   AbsoluteLayout.LayoutFlags="WidthProportional,HeightProportional" />
   </AbsoluteLayout>
 </ContentPage>
